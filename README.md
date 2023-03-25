@@ -1,7 +1,7 @@
 # AnimatedLogin
 
 
-Hello Guys , Welcome to my new and exciting animated login page! Our innovative design takes your login experience to a whole new level by incorporating interactive elements that make logging in fun and easy.
+Hello Guys , Welcome to my new and exciting animated login page! my innovative design takes your login experience to a whole new level by incorporating interactive elements that make logging in fun and easy.
 
 When you first arrive on the page, you'll be greeted by a sleek and stylish login form. But that's just the beginning. Once you start typing in your password, you'll notice something special happening. As you pull the lever, the password field will come to life, and a light will turn on to illuminate your password, making it easier to see and enter correctly.
 
